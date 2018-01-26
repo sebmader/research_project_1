@@ -3,4 +3,5 @@ This repository contains all progress made during my 1st research project in Gor
 
 ## Contents
 A lot of interesting stuff...!
-**coming soon**
+
+*coming soon*
