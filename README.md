@@ -5,3 +5,5 @@ This repository contains all progress made during my 1st research project in Gor
 A lot of interesting stuff...!
 
 *coming soon*
+
+![logo] (pics/logo.jpg)
