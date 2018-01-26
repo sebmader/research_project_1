@@ -3,6 +3,11 @@ install:
   - sudo apt-get install npm
   - sudo npm install -g markdown-link-check
 
+language: python
+python:
+  - "2.6"
+  - "2.7"
 script: 
   - proselint README.md
   - ./check_dead_links
+  - "python Ex13_SebMader_24012018_even_odd.py"
