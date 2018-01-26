@@ -6,4 +6,4 @@ A lot of interesting stuff...!
 
 *coming soon*
 
-![logo] (pics/logo.jpg)
+![logo](pics/logo.jpg)
